@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+env/
+
+# Docker
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno
+.env
+
+# Archivos de Django
+db.sqlite3
+staticfiles/
+media/
+
+# PyCharm
+.idea/
+*.iml
